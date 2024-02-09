@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prikshitvashisth
+- 👋 Hi, I’m @prikshitvashisth 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning python  
 - 💞️ I’m looking to collaborate on ...
