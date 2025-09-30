@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prikshitvashisth   
 - 👀 I’m interested in web development          
 - 🌱 I’m currently learning python         
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ...  
 - 📫 How to reach me, LinkedIn profile link (https://in.linkedin.com/in/prikshit-vashisth-aa9812274) 
 
  
